@@ -1,0 +1,393 @@
+#div1{
+    background-color: white;
+    margin: 0px;
+    display: flex;
+    }
+    #div11 p{
+        font-size:30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: black;
+
+    }
+    #div11{
+        background-color: white;
+        margin-left: 50px;
+    }
+    
+    #div12 a{
+        padding: 23px;
+        float: left;
+        font-size: 40px;
+        text-decoration: none;
+        color: black;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        
+    }
+    #div12 ul{
+        list-style-type: none;
+        padding: 0px;
+        margin: 0px;
+        overflow: hidden;
+    }
+    #div12 li{
+        float: left;
+    }
+   
+    #div12{
+        margin-left: 1000px;
+        margin-top: 10px;
+        background-color:white;
+        height: 100px;
+        width: 600px;
+    }
+    #div12 a:link{
+        color: black;
+    }
+    #div12 a:hover{
+        color: hotpink;
+        background-color: black;
+    }
+    #div2{
+    display: flex;
+    background-color: rgb(8, 85, 68);
+    height: 750px;
+    }
+    #div21{
+        margin-left: 60px;
+    }
+    #div21 h1{
+        font-size: 100px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        padding: 0px;
+
+    }
+    #div21 p{
+        font-size: 50px;
+        
+    }
+    #div22{
+        margin-left: 300px;
+    }
+    #div3{
+        background-color: white;
+    }
+    #div31{
+        background-color: white;
+        text-align: center;
+        font-size: 70px;
+    }
+    #div32{
+        margin-top: 0px;
+        background-color: white;
+        text-align: center;
+        font-size: 30px;
+    }
+    #div33{
+        background-color: blue;
+    }
+    #div331{
+        background-color: aqua;
+        margin-left: 0px;
+        padding: 1px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #div331:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div331 a{
+        text-decoration: none;
+        color: black;
+    }
+    #anger{
+        font-size: 50px;
+        margin-left: 100px;
+        
+    }
+    #div332{
+        background-color: rgb(10, 239, 239);
+        margin-left: 0px;
+        padding: 1px;
+        margin-top: -62px;
+    }
+    #div332:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div332 a{
+        text-decoration: none;
+        color: black;
+    }
+    #anxious{
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 100px;
+        margin-top: 10px;
+    
+    }
+    #div333{
+        background-color: rgb(9, 212, 212);
+        margin-left: 0px;
+        margin-top: -63px;
+        padding: 1px;
+    }
+    #div333:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div333 a{
+        text-decoration: none;
+        color: black;
+    }
+    #sad{
+        font-size: 50px;
+        margin-left: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    #div334{
+        background-color: rgb(31, 160, 160);
+        margin-left: 0px;
+        margin-top: -62px;
+        padding: 1px;
+    }
+    #div334:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div334 a{
+        text-decoration: none;
+        color: black;
+    }
+    #hopeless{
+        font-size: 50px;
+        margin-left: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    #div335{
+        background-color: rgb(39, 243, 243);
+        margin-left: 0px;
+        margin-top: -62px;
+        padding: 1px;
+    }
+    #div335:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div335 a{
+        text-decoration: none;
+        color: black;
+    }
+    #lonely{
+        font-size: 50px;
+        margin-left: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    #div336{
+        background-color: rgb(9, 206, 206);
+        margin-left: 0px;
+        margin-top: -62px;
+        padding: 1px;
+    }
+    #div336:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div336 a{
+        text-decoration: none;
+        color: black;
+    }
+    #stressed{
+        font-size: 50px;
+        margin-left: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    #div337{
+        background-color: rgb(80, 235, 235);
+        margin-left: 0px;
+        margin-top: -63px;
+        padding: 1px;
+    }
+    #div337:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div337 a{
+        text-decoration: none;
+        color: black;
+    }
+    #weired{
+        font-size: 50px;
+        margin-left: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    footer{
+    background-color: white;
+    margin-left: 40px;
+    display: flex;
+
+    }
+    footer p{
+        
+        font-size:30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: black;
+    }
+    footer a{
+        padding: 23px;
+        float: left;
+        font-size: 25px;
+        text-decoration: none;
+        color: black;
+        margin-top: 15px;
+        margin-left: 50px;
+    }
+
+    #div4{
+        display: flex;
+        margin-left: 0px;
+        height: 700px;
+        margin-top: 200px;
+    }
+    #div41{
+        margin-left: 100px;
+    }
+    #div42{
+        margin-left: 200px;
+        margin-right: 200px;
+        font-size: 45px;
+    }
+    #colour{
+        background-color: rgb(25, 158, 129);
+    }
+    #div5{
+        margin-top: 100px;
+        color: white;
+        height: 1800px;
+    }
+    #div51{        
+        font-size: 50px;
+        margin-left: 300px;
+        margin-right: 300px;
+        text-align: center;
+    }
+    #div52{
+        font-size: 40px;
+        margin-left: 200px;
+        margin-right: 200px; 
+    }
+    #div52:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div53{
+        font-size: 40px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    #div53:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div54{
+        font-size: 40px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    #div54:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div55{
+        font-size: 40px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    #div55:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div56{
+        font-size: 40px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    #div56:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div57{
+        font-size: 40px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    #div57:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div58{
+        font-size: 40px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    #div58:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div59{
+        font-size: 40px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    #div59:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }
+    #div6{
+        background-color: black;
+        display: flex;
+        color: white;
+    }
+    #div61{
+        font-size: 40px;
+        margin-left: 200px;
+        padding: 60px;
+        
+    }
+    #div62{
+        font-size: 30px;
+        margin-left: 550px;
+        margin-right: 200px;
+        padding: 60px;
+    }
+    #get{
+        padding: 25px;
+        width: 300px;
+        font-size: 30px;
+        background-color: rgb(233, 145, 51);
+        color: black;
+    }
+    #get:hover{
+        transform: scale(1.01);
+        box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+        z-index: index 2;
+    }

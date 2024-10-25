@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <tie>Document</title>
+    <style>
+        #body{
+            font-size: 40px;
+        }
+        #gender{
+            width:170px
+        }
+        #bio{
+            height: 60px;
+            width: 170px;
+        }
+        #div1{
+            
+            margin-left: 800px;
+            margin-right: 800px;
+        }
+        #submit{
+            background-color: green;
+        }
+        #text{
+            font-size: 20px;
+            margin-right: 200px;
+            margin-left: 200px;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        function data()
+        {
+        var a=document.getElementById("i1").value;
+        var b=document.getElementById("i2").value;
+        var c=document.getElementById("i3").value;
+        var d=document.getElementById("i4").value;
+        if(a==""|| b==""|| c==""|| d=="")
+        {
+            alert("All fields are mandatory")
+            return false;
+        }
+        else{
+            true;
+        }
+        }
+        
+    </script>
+<div id="text">
+    <h1>Get Help</h1>
+    <p>If you struggling emotionally and need to talk to someone, you're not alone. Talking about our emoitional struggls is the first step to feeling better. You can start by talking openly with friend or family member, reching out to a mental health professional pr using one of the free, confidential resources below</p>
+</div>
+<div id="div1">
+    <form onsubmit="return data()" action="form.html">
+    <h1>Registration form</h1>
+    <label for="name">Name</label><br>
+    <input type="text" id="i1"><br>
+    <label for="email">Email</label><br>
+    <input type="email" id="i2"><br>
+    <label for="password">Password</label><br>
+    <input type="password" id="i3"><br>
+    <label for="gender">Gender</label><br>
+    <select id="i4"> 
+    <option>select</option>
+    <option>Male</option>
+    <option>Female</option>
+    </select><br><br>
+    <input type="submit" value="submit" id="rh2" width="150px">
+    </form>
+</div>
+</body>
+</html>
